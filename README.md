@@ -9,6 +9,7 @@ Where there is a U-turn either on a ground level road or in mountainous area, th
 When there is a vehicle at one side of U-turn the opposite led and the buzzer will be on .
 So, that the vehicle at another side will know that there is a vehicle in opposite side. So ,it will slow down the vehicle speed.
 By using this we can prevent U-turn accidents and save light energy.
+The code is written in Arduino software.
 
 COMPONENTS USED:
 
